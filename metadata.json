@@ -1,0 +1,8 @@
+{
+  "name": "Ambica Car Service Station",
+  "description": "A mobile-first Employee Attendance, Salary, Cash Advances and Payroll Management System for Ambica Car Service Station Garage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
